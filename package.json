@@ -1,6 +1,6 @@
 {
   "name": "prop-assign",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Assign a value to a property in an Array iterator",
   "main": "index.js",
   "scripts": {
